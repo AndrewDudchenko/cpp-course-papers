@@ -1,0 +1,8 @@
+﻿  Circle.cpp
+  KR1Program.cpp
+C:\Users\user\Desktop\Університет\ІІ семестр\Основи об'єктно-орієнтованого програмування\KR\KR1Program\KR1Program\KR1Program.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Music.cpp
+  Task.cpp
+  Task2.cpp
+  Generating Code...
+  KR1Program.vcxproj -> C:\Users\user\Desktop\Університет\ІІ семестр\Основи об'єктно-орієнтованого програмування\KR\KR1Program\x64\Debug\KR1Program.exe

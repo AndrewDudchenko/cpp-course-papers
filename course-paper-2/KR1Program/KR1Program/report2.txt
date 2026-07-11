@@ -1,0 +1,7 @@
+--- Operation Result % ---
+Circle 1: Center: (5.5, 4) | Radius: 3 | Color: Black
+
+Circle 2: Center: (0, 0) | Radius: 5 | Color: Red
+
+Result: Center: (5.5, 4) | Radius: 8 | Color: Red
+

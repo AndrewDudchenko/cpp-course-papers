@@ -1,0 +1,16 @@
+﻿  Курсова робота.cpp
+C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(18,22): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(18,24): error C3484: syntax error: expected '->' before the return type
+C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(18,33): error C2146: syntax error: missing ')' before identifier 'm'
+C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(18,33): error C3646: 'm': unknown override specifier
+C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(18,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(18,36): error C2062: type 'double' unexpected
+C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(18,54): error C2059: syntax error: ')'
+C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(18,56): error C2143: syntax error: missing ';' before '{'
+C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(18,56): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(108,15): error C2660: 'find_k': function does not take 4 arguments
+      C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(18,8):
+      see declaration of 'find_k'
+      C:\Users\user\Desktop\Університет\Програмування\Курсова робота в14\Курсова робота\Курсова робота\Курсова робота.cpp(108,15):
+      while trying to match the argument list '(double, double, double, double)'
+  
